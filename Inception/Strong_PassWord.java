@@ -20,6 +20,5 @@ class Solution{
         }
         out.println(ans);
         out.flush();
-		
 	}
 }
